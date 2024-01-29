@@ -1,0 +1,11 @@
+# Cocci-Bot
+
+$Arduino
+$Freecad
+$Bluetooth
+$Android
+
+
+% Ce projet vise à fabriquer un petit robot pédagogique pour apprendre les bases de l'électronique. Une fonction de contrôle sur smartphone est égalmement disponible.
+
+
