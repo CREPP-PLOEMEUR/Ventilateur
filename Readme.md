@@ -7,3 +7,5 @@
 # Ventilateur
 
 Un projet de ventilateur permettant de contrôler un extracteur d'air avec une carte Arduino.
+
+![Capture d'écran 1](.img/Ventilation.jpg)
